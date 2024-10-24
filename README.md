@@ -1,4 +1,6 @@
+<div align="center"> 
 ## Greeting :smirk_cat:
+</div>
 
 <!--
 **Sinoverg/Sinoverg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
