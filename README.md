@@ -1,5 +1,7 @@
 <div align="center"> 
-## Greeting :smirk_cat:
+<h2>
+  Greeting :smirk_cat:
+</h2>
 </div>
 
 <!--
