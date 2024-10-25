@@ -1,4 +1,4 @@
-<div>
+<div style="center">
   <div>
 <h2>
   Greeting 
@@ -29,6 +29,13 @@
 
   <div>
     <h3>Stats</h3>
+
+[![Sinoverg's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinoverg)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinoverg)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cirqach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
   
   
