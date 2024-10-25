@@ -1,7 +1,24 @@
-<div align="center"> 
+<div>
+  <div>
 <h2>
-  Greeting :smirk_cat:
+  Greeting 
 </h2>
+    
+  </div>
+  
+  <div>
+  <h3>Projects</h3>
+  </div>
+
+  <div>
+    <h3>Stack</h3>
+  </div>
+
+  <div>
+    <h3>Stats</h3>
+  </div>
+  
+  
 </div>
 
 <!--
