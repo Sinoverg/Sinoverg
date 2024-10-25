@@ -8,10 +8,20 @@
   
   <div>
   <h3>Projects</h3>
+    <p>There is no project worth to mention for a while</p>
   </div>
 
   <div>
     <h3>Stack</h3>
+
+![Static Badge](https://img.shields.io/badge/Code-Go-%2387CEEB?style=for-the-badge&logo=gnubash&logoColor=%2387CEEB)
+![Static Badge](https://img.shields.io/badge/Tools-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Static Badge](https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker)
+    
+  ![Static Badge](https://img.shields.io/badge/OS-Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Distro-Gentoo-magenta?style=for-the-badge&logo=gentoo&logoColor=magenta)
+  ![Static Badge](https://img.shields.io/badge/Shell-Bash-green?style=for-the-badge&logo=gnubash&logoColor=green)
+    
   </div>
 
   <div>
